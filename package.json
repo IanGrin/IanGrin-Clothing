@@ -46,6 +46,9 @@
     "workbox-strategies": "^6.6.0",
     "workbox-streams": "^6.6.0"
   },
+  "overrides": {
+    "typescript": "^5.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
