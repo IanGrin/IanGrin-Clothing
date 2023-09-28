@@ -23,7 +23,7 @@ const Checkout = () => {
     <CheckoutContainer>
       <CheckoutHeader>
         <HeaderBlock>
-          <span>Produck</span>
+          <span>Product</span>
         </HeaderBlock>
         <HeaderBlock>
           <span>description</span>
